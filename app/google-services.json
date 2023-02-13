@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160501003175",
+    "project_id": "csci3130-team-13",
+    "storage_bucket": "csci3130-team-13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160501003175:android:55efc533edfaff0870fc82",
+        "android_client_info": {
+          "package_name": "com.example.barterbarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160501003175-vsc9rg4c78g3op1e6rbqu23h4muk3uvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADDPxuYlDH_ZN8iJ24FmngaMkfkIJ1vMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160501003175-vsc9rg4c78g3op1e6rbqu23h4muk3uvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

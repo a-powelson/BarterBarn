@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Barter Barn</string>
+    <string name="search">Search</string>
+    <string name="loginLinkButtonText">Already registered? <b>Login</b></string>
+    <string name="registerLinkButtonText">No account? <b>Create one</b></string>
+    <string name="invalidEmailPassword">Invalid name, email or password.</string>
+    <string name="emptyEmailPassword">Please enter a valid name, email and password.</string>
+    <string name="incorrectEmailPassword">Incorrect email or password.</string>
+    <string name="message">Permission Granted</string>
+    <string name="locationPermissionGranted">Location Permission: Granted!</string>
+    <string name="locationPermissionNotGranted">Location Permission: Not Granted</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="createList">Create List</string>
+    <string name="noResultsFound">No results found</string>
+    <string name="logout">Logout</string>
+    <string name="title">Title</string>
+    <string name="distance">Distance</string>
+    <string name="msgHint">Aa</string>
+    <string name="sendButtonImgDescrip">Send Arrow</string>
+    <string name="profile_image_descrip">Profile Image</string>
+    <string name="messages">Messages</string>
+    <string name="profile">Profile</string>
+    <string name="dateRegistered">Date registered</string>
+    <string name="save">Save</string>
+    <string name="noTradesCompleted">No trades completed.</string>
+    <string name="report_a_bug">Report a Bug</string>
+    <string name="submit">Submit</string>
+
+    <!--Help Documentation String Resources-->
+    <string name="helpIntro">Barter Barn is a flexible easy-to-use application for listing goods to trade for currency and/or other desired items. Additionally, Barter Barn integrates its own chat system for buyers and sellers to communicate details on this process.</string>
+    <string name="helpIntro_2">The links below lead to brief explanations of each respective feature in Barter Barn:</string>
+
+    <string name="help_account_header">Login and Account Registration</string>
+    <string name="help_search_header">Searching and Viewing Listings</string>
+    <string name="help_edit_header">Creating and Deleting Listings</string>
+    <string name="help_messaging_header">User Profile, Messaging and Trading</string>
+
+    <string name="help">Help</string>
+
+    <string name="help_account_subheader1">Your Barter Barn Account</string>
+    <string name="help_account_information">Each Barter Barn user is required to register an account using your name, email and a chosen password. This account serves as your profile for creating new listings under your name and conversing with other users.</string>
+    <string name="help_account_subheader2">Logging In</string>
+    <string name="help_account_information2">When first launching the application, the user is presented with a login screen where they are prompted to enter their email and password then login.</string>
+    <string name="help_account_subheader3">Creating an Account</string>
+    <string name="help_account_information3">At the bottom of the page, new users can find a button prompting them to create a new account leading them to the registration page. Here users are instead prompted to enter new account information imposed with restrictions that the email must be valid and that no fields can be blank.
+        Upon filling these fields and using the register button, Barter Barn is launched automatically with this profile.</string>
+
+    <string name="help_search_subheader1">Searching Listings</string>
+    <string name="help_search_information">Upon logging in or registering, the user is brought to the main page where they can see all the available listings. At the top of the page, there is a search bar that allows the user to enter search terms to find specific items.</string>
+    <string name="help_search_subheader2">Viewing Listings</string>
+    <string name="help_search_information2">The user can interact with any listing to view its details, including the date the item was posted, the seller’s name, location and an expanded picture of the product. There is also a button here allowing the user to message the contact.</string>
+
+    <string name="help_edit_subheader1">Creating Listings</string>
+    <string name="help_edit_information">A user can create a listing by use of the ‘+’ icon floating action button at the bottom of the main page. Within this page, the user is then prompted to enter information about the product including its name, the contact’s name, the location of the item and a description of the item.
+        Finally, the user is also required to upload a photo of the item being sold. If all these requirements are met, the submit button uploads the item to the main page with the other listings. </string>
+    <string name="help_edit_subheader2">Deleting Listings</string>
+    <string name="help_edit_information2">A user can delete their own listings by simply touching the delete icon on the listing thumbnail. </string>
+
+    <string name="help_messaging_subheader1">Your Profile</string>
+    <string name="help_messaging_information">Every user has their own profile that they can view, showing them the date they registered, their name, their password and how many trades they have completed. A user can view their own profile by using the profile button on the main page’s app bar.</string>
+    <string name="help_messaging_subheader2">Messaging and Your Conversations</string>
+    <string name="help_messaging_information2">Likewise, a user can access their conversations by using the messages button on the main page’s toolbar. Initially, this page is empty if no conversations have been initiated.A user can initiate a conversation by viewing the details of their desired item and interacting with the message button on the page.
+        This starts a conversation with the contact listed on the item page. Once in the conversation, sending at least one message starts a message history with that user which is saved in the conversations list. </string>
+    <string name="help_messaging_subheader3">Trading</string>
+    <string name="help_messaging_information3">From the chat interface, the trade feature can be used. A user can finalize a trade with another user after conversing with the ‘Finalize Trade’ button on the app-bar. The application then prompts you to enter the traded item, which upon hitting the submit button, notifies you of the trades completion.</string>
+</resources>
